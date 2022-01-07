@@ -1,0 +1,17 @@
+"game.oth.OthelloGame"
+["1234567890","10","3","2000","Agent","game.oth.players.GreedyPlayer"]
+{"first":{"i":4,"j":3},"second":0}
+{"first":{"i":3,"j":3},"second":0}
+{"first":{"i":2,"j":3},"second":0}
+{"first":{"i":6,"j":4},"second":0}
+{"first":{"i":6,"j":3},"second":0}
+{"first":{"i":4,"j":2},"second":0}
+{"first":{"i":4,"j":1},"second":0}
+{"first":{"i":3,"j":4},"second":0}
+{"first":{"i":6,"j":5},"second":0}
+{"first":{"i":4,"j":0},"second":0}
+{"first":{"i":2,"j":4},"second":0}
+{"first":{"i":4,"j":6},"second":0}
+{"first":{"i":3,"j":2},"second":0}
+{"first":{"i":1,"j":4},"second":0}
+{"second":2000000002}
